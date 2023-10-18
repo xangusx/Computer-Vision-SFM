@@ -19,7 +19,8 @@ The final estimated 3D point cloud will be stored in `results.npy`
 python3 PtsVisualizer/visualize.py results.npy
 ```
 - if `ModuleNotFoundError: No module named glm`
-  install GLM package
+
+install GLM package
 ```bash=1
 cd ~/Downloads
 git clone https://github.com/N0rbert/PyGLM.git
