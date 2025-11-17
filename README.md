@@ -2,7 +2,6 @@
 
 ## install
 You need to run `install.sh` before execution the `main.py`      
-ＳＸＤＣＣＣＣＣｃｃ　
 ```bash=1
 sudo chmod 777 install.sh
 ./install.sh
